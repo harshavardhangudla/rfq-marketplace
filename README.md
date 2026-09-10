@@ -4,6 +4,18 @@ A full-stack B2B Request for Quotation (RFQ) marketplace that connects buyers wi
 
 Buyers can create RFQs for products or services, while suppliers can discover relevant RFQs and submit quotations. The application includes role-based authentication, persistent PostgreSQL storage, input validation, and a responsive web interface.
 
+## Developer
+
+**Harsha Vardhan Gudla**
+
+Software Developer | Full-Stack Development
+
+- GitHub: https://github.com/harshavardhangudla
+- LeetCode: https://leetcode.com/u/harshavardhan_gudla/
+- LinkedIn: https://www.linkedin.com/in/harsha-vardhan-gudla/
+
+---
+
 ## Live Application
 
 https://frontend-ten-chi-4dyrsecqit.vercel.app
