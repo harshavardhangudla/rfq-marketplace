@@ -18,7 +18,7 @@ Software Developer | Full-Stack Development
 
 ## Live Application
 
-https://frontend-ten-chi-4dyrsecqit.vercel.app
+https://frontend-ten-chi-4ydrsecqit.vercel.app/
 
 ## GitHub Repository
 
@@ -413,7 +413,7 @@ The frontend communicates with the deployed Express backend through REST APIs.
 
 **Frontend**
 
-https://frontend-ten-chi-4dyrsecqit.vercel.app
+https://frontend-ten-chi-4ydrsecqit.vercel.app/
 
 **Backend**
 
@@ -448,7 +448,7 @@ All generated or assisted code was reviewed, tested, and integrated into the app
 ## Submission
 
 **Live Application:**  
-https://frontend-ten-chi-4dyrsecqit.vercel.app
+https://frontend-ten-chi-4ydrsecqit.vercel.app/
 
 **GitHub Repository:**  
 https://github.com/harshavardhangudla/rfq-marketplace
